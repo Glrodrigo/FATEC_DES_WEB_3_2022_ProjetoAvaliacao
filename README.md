@@ -23,3 +23,8 @@ a consulta das informações de alunos cadastrados no banco até aquele momento,
 cadastro, clicando no botão Editar ou Atualizar (barra de navegação).
   
 <p align="center"><img src="assets/Print_alunos.png"><p align="center">
+
+A opção de Cadastrar aluno ou Cadastro (barra de navegação), somos direcionados a tela de cadastro, onde 
+podemos adicionar novas informações ao sistema, para consulta posterior na tela de alunos cadastrados.
+
+<p align="center"><img src="assets/Print_cadastro.png"><p align="center">
