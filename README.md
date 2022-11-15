@@ -28,3 +28,9 @@ A opção de Cadastrar aluno ou Cadastro (barra de navegação), somos direciona
 podemos adicionar novas informações ao sistema, para consulta posterior na tela de alunos cadastrados.
 
 <p align="center"><img src="assets/Print_cadastro.png"><p align="center">
+
+Por fim, escolhendo a opção Deletar registro ou Deletar (barra de navegação), temos acesso a tela de exclusão
+de registros no sistema, onde podemos apagar o cadastro da linha escolhida, e na sequência o sistema irá atualizar
+a informação em tempo real, retirando o registro excluído.
+
+<p align="center"><img src="assets/Print_deletar.png"><p align="center">
