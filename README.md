@@ -18,7 +18,8 @@ Palestrante, veremos o nome e as informações referente a este, como seu cargo 
   
 <p align="center"><img src="assets/Print_palestra.png"><p align="center">
 
-Escolhendo a opção Consultar alunos cadastrados, ou Alunos (na barra de navegação), teremos como resultado
-a consulta das informações de alunos cadastrados no banco até aquele momento.
+Escolhendo a opção Consultar alunos cadastrados ou Alunos (barra de navegação), teremos como resultado
+a consulta das informações de alunos cadastrados no banco até aquele momento, sendo possível atualizar qualquer
+cadastro, clicando no botão Editar ou Atualizar (barra de navegação).
   
 <p align="center"><img src="assets/Print_alunos.png"><p align="center">
