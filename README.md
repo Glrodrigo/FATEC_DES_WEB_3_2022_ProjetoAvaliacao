@@ -6,8 +6,7 @@ Construção de um sistema de cadastro de alunos (CRUD) utilizando a ferramenta 
 
 Podemos verificar abaixo a home deste projeto, em que podemos escolher qual opção desejamos do sistema:
 
-### Criar 
-um cadastro
+### Criar ### um cadastro
 ### Rever 
 informações
 ### Update 
