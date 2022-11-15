@@ -45,6 +45,6 @@ a informação em tempo real, retirando o registro excluído.
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?style=flat-square)
 ![HTML5]([https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/-HTML5-red))
 ![JavaScript]([https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://img.shields.io/badge/-JAVASCRIPT-yellow))
-![CSS3]([https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/-CSS3-blue))
+![CSS3](https://img.shields.io/badge/-CSS3-blue)
     
 </div>
