@@ -34,3 +34,17 @@ de registros no sistema, onde podemos apagar o cadastro da linha escolhida, e na
 a informação em tempo real, retirando o registro excluído.
 
 <p align="center"><img src="assets/Print_deletar.png"><p align="center">
+
+<br>
+<div align="center">
+
+    
+<h2> Desenvolvimento </h2>
+
+![SQLite](https://img.shields.io/badge/-SQLite-blue)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?style=flat-square)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    
+</div>
