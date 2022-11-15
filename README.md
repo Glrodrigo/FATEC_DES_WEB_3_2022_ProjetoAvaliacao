@@ -17,3 +17,8 @@ Um pouco mais abaixo, há a descrição de palestras disponíveis em determinada
 Palestrante, veremos o nome e as informações referente a este, como seu cargo atual e sua formação.
   
 <p align="center"><img src="assets/Print_palestra.png"><p align="center">
+
+Escolhendo a opção Consultar alunos cadastrados, ou Alunos (na barra de navegação), teremos como resultado
+a consulta das informações de alunos cadastrados no banco até aquele momento.
+  
+<p align="center"><img src="assets/Print_alunos.png"><p align="center">
